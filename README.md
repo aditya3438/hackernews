@@ -1,2 +1,2 @@
 # hackernews
-A clone of the hackernews.
+A clone of www.hackernews.com
